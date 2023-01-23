@@ -110,6 +110,11 @@ public class Picture
         door.changeColor("white");
         roof.changeColor("black");
         sun.changeColor("black");
+        man.changeColor("white");
+        shedroof.changeColor("black");
+        mouth.changeColor("black");
+        shed.changeColor("black");
+        eye.changeColor("white");
     }
 
     /**
@@ -119,7 +124,12 @@ public class Picture
     {
         wall.changeColor("red");
         door.changeColor("black");
-        roof.changeColor("green");
-        sun.changeColor("yellow");
+        roof.changeColor("blue");
+        sun.changeColor("blue");
+        man.changeColor("black");
+        shedroof.changeColor("blue");
+        mouth.changeColor("red");
+        shed.changeColor("red");
+        eye.changeColor("black");
     }
 }
